@@ -1,0 +1,133 @@
+#title{
+    background-color:#7895B2;
+
+}
+h1{
+  color: #FFFFFF;
+  padding-top: 7%;
+  font-family:cursive;
+font-size: 75px;
+  font-weight: bold;
+text-align: center;
+}
+
+
+.caption{
+  color: #FFFFFF;
+  padding-top: 2%;
+  font-family:cursive;
+
+  font-weight: bold;
+text-align: center;
+
+
+}
+
+
+.seth{
+  width:40%;
+  height: auto;
+  padding-bottom:5%;
+}
+/*ABOUT US*/
+
+#About{
+  background-color:#EFEFEF ;
+  padding: 7% 15%;
+
+}
+.about{
+  color: #7895B2;
+  text-align: center;
+  font-family: serif;
+  font-weight: bolder;
+  padding: 5%;
+}
+.para{
+
+line-height:2em;
+padding-bottom: 5%;
+font-size: 25px;
+
+
+
+}
+/*Doctrs*/
+#Doctors{
+  background-color: #7895B2;
+    padding: 7% 15%;
+
+}
+.Doctor{
+  color:#EFEFEF;
+  text-align: center;
+  font-family: cursive;
+  font-weight:bolder;
+  padding: 5%
+}
+.ccarousel-item{
+  padding: 7% 15%;
+}
+
+/*PRASANTH*/
+.Prasanth{
+background-color:#EFEFEF;
+border-radius: 50%;
+margin-left:40%;
+width: 20%;
+height: auto;
+}
+
+
+
+.Pra{
+  color:#EFEFEF;
+font-weight: bold;
+  line-height:1.5em;
+  font-size: 25px;
+  text-align: center;
+}
+/*Srujana*/
+.Srujana{
+background-color:#EFEFEF;
+  border-radius: 50%;
+  margin-left:40%;
+  width: 20%;
+  height: auto;
+}
+
+/*Srikanth*/
+.Srikanth{
+  background-color:#EFEFEF;
+  border-radius: 50%;
+  margin-left:40%;
+  width: 20%;
+  height: auto;
+}
+/*Prathima*/
+.Prathima{
+  background-color:#EFEFEF;
+    border-radius: 50%;
+    margin-left:40%;
+    width: 20%;
+    height: auto;
+
+}
+#Contact{
+  background-color:#EFEFEF ;
+  padding: 7% 15%;
+}
+.Contact{
+  color: #7895B2;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+  padding: 5%;
+}
+.A{
+  color:#7895B2;
+font-weight: bold;
+  line-height:1.5em;
+  font-size: 25px;
+  text-align: center;
+}
